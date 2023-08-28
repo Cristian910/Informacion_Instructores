@@ -144,6 +144,7 @@ $filtroCarrera = isset($_GET['area']) ? $_GET['area'] : '';
                 <section class="text__cover">
                     <h1>Instructores del CBA</h1>
                     <p>Bienvenido a la página de instructores del SENA CBA</p>
+                    <a href="datatables/index.php" class="agregar">Ver lista de instructores</a>
                 </section>
                 <section class="image__cover">
                     <img src="img/portada.jpg" alt="">
