@@ -36,6 +36,6 @@ Este portal se desarrolló utilizando una combinación de tecnologías web:
 
 ## Contribución y Uso
 
-Este portal ha sido desarrollado con el propósito de simplificar la gestión de información de los instructores y mejorar la experiencia de los usuarios. Si deseas adaptar, modificar o mejorar esta solución para satisfacer las necesidades específicas de tu institución, eres bienvenido a hacerlo. Puedes contribuir con nuevas características, resolver problemas o mejorar la aplicación mediante pull requests.
+Este portal ha sido desarrollado con el propósito de simplificar la gestión de información de los instructores y mejorar la experiencia de los usuarios.
 
 Esperamos que este portal facilite la búsqueda y gestión de información de instructores tanto para los usuarios como para los directivos del SENA.
